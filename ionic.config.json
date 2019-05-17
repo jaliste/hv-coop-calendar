@@ -1,6 +1,8 @@
 {
   "name": "coop-calendar",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "4045ab8e"
 }
